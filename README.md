@@ -1,14 +1,13 @@
 ## Colorizer App
 
 ### App Description
-`TODO://` Colorizer is an App that allows the user to see a custom text, change the color of the text, change the text words, change the background color, and reset all changes in the app. 
+Colorizer is an App that allows the user to see a custom text, change the color of the text, change the text words, change the background color, and reset all changes in the app. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` 
+![App demonstration gif](Android_Emulator_-_Pixel_2_API_30_5554_2021-12-25_16-38-29_AdobeCreativeCloudExpress.gif | width=200)
+<br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
