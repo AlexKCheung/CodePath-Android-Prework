@@ -4,8 +4,6 @@
 Colorizer is an App that allows the user to see a custom text, change the color of the text, change the text words, change the background color, and reset all changes in the app. 
 
 ### App Walk-though
-Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="https://github.com/AlexKCheung/CodePath-Android-Prework/blob/main/Android_Emulator_-_Pixel_2_API_30_5554_2021-12-25_16-38-29_AdobeCreativeCloudExpress.gif" width=200><br>
 
 ### Required User Stories
